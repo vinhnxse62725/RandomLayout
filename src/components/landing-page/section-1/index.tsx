@@ -39,7 +39,7 @@ const Section1: React.FC = () => {
                     animationDuration: "2000ms",
                   }}
                 >
-                  Furniture
+                  Furniture 2
                 </div>
               </div>
             </div>
@@ -66,7 +66,7 @@ const Section1: React.FC = () => {
                     animationDuration: "2000ms",
                   }}
                 >
-                  Furniture
+                  Furniture 2
                 </div>
               </div>
             </div>
